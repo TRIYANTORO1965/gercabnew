@@ -18,7 +18,7 @@ import {
       <footer className="mt-10 border-t pt-4 text-center text-sm text-gray-600 space-y-2">
         <div className="flex justify-center flex-wrap gap-4 text-lg">
           <a
-            href="https://www.facebook.com/smpduakayen"
+            href="https://www.facebook.com/share/12L8qjU67Qw/"
             target="_blank"
             rel="noopener noreferrer"
             data-tooltip-id="social-tooltip"
@@ -38,7 +38,7 @@ import {
             <FaYoutube />
           </a>
           <a
-            href="https://www.instagram.com/smpnegeri2kayen"
+            href="https://www.instagram.com/smpnegeri2kayen?igsh=YzljYTk1ODg3Zg=="
             target="_blank"
             rel="noopener noreferrer"
             data-tooltip-id="social-tooltip"
@@ -48,7 +48,7 @@ import {
             <FaInstagram />
           </a>
           <a
-            href="https://www.tiktok.com/@akun_tiktok"
+            href="https://www.tiktok.com/@osissmp2kayen?_t=ZS-8wQrG7xRoif&_r=1"
             target="_blank"
             rel="noopener noreferrer"
             data-tooltip-id="social-tooltip"
@@ -58,7 +58,7 @@ import {
             <FaTiktok />
           </a>
           <a
-            href="https://twitter.com/akun_twitter"
+            href="https://x.com/SMPN2KAYEN1985"
             target="_blank"
             rel="noopener noreferrer"
             data-tooltip-id="social-tooltip"
@@ -103,7 +103,7 @@ import {
               SiRida
             </a>
           </p>
-          <p className="mt-1 italic">© 2025 SMP Negeri 2 Kayen</p>
+          <p className="mt-1 italic">© SMP Negeri 2 Kayen - Tlp. 0295-4101216 </p>
         </div>
       </footer>
     );

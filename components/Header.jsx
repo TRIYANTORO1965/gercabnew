@@ -33,7 +33,7 @@ export default function Header() {
           <p className="text-sm sm:text-base font-semibold text-blue-800 mt-1">
             SMP NEGERI 2 KAYEN
           </p>
-          <p className="text-xs italic text-gray-400 mt-1">By: @Mr.Tri25</p>
+          <p className="text-xs italic text-gray-400 mt-1">By: © Mr.Tri </p>
         </div>
       </div>
     </div>

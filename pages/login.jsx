@@ -150,7 +150,7 @@ export default function Login() {
       </div>
 
       <p className="absolute bottom-2 left-2 text-xs italic text-gray-500">
-        Aplikasi ini dibuat oleh <strong>@Mr.Tri25</strong>
+        Aplikasi ini dikembangkan oleh <strong>© Mr.Tri_Guru SMP Negeri Kayen</strong>
       </p>
     </div>
   );
